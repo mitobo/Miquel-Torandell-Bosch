@@ -1,5 +1,5 @@
 
-public class calculadora {
+public class calculadora extends superclasse {
 
 	int num1;
 	
